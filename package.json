@@ -16,5 +16,22 @@
     "babel-loader": "^8.2.2",
     "bootstrap": "^5.0.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "restaurant_page",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmyn5600/Restaurant_Page.git"
+  },
+  "author": "Emmyn5600",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmyn5600/Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/Emmyn5600/Restaurant_Page#readme"
 }
