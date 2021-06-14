@@ -1,4 +1,4 @@
-import Element from '../components/element';
+import Element from '../commons/element';
 
 const foodItem = ({ imagePath, price: prc, name }) => {
   const Item = new Element().create('div').class('col-lg-3 my-2');
