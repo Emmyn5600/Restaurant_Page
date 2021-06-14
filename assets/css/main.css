@@ -9,7 +9,7 @@ input {
 }
 
 .navbar {
-  background-color: #286848;
+  background-color: rgb(197, 94, 94);
 }
 
 .title {
@@ -43,7 +43,7 @@ input {
 .welcome-text {
   font-weight: 900;
   font-size: 50px;
-  color: #286848;
+  color: rgb(199, 76, 76);
 }
 
 .foodItem {
