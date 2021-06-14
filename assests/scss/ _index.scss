@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  button,
+  input {
+    outline: none;
+  }
+  
+  .navbar {
+    background-color: $main_color;
+  }
+  
+  .title {
+    font-weight: 900;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .btns {
+    button {
+      width: 150px;
+      height: 40px;
+      background: transparent;
+      border: 0;
+      font-weight: 600;
+      color: white;
+  
+      &:focus {
+        border: 0;
+      }
+    }
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  .home_content {
+    height: 500px;
+    width: 100%;
+  }
+  
+  .welcome-text {
+    font-weight: 900;
+    font-size: 50px;
+    color: $main_color;
+  }
+  
+  .foodItem {
+    box-shadow: 0 0 5px rgb(211, 211, 211);
+  }
