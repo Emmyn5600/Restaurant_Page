@@ -11,10 +11,6 @@
 - JAVASCRIPT
 
 
-## Live Demo
-
-[Live Demo Link]()
-
 ## Getting Started
 
 - Clone this repo https://github.com/Emmyn5600/Restaurant_Page.git
