@@ -22,7 +22,9 @@
   "version": "1.0.0",
   "main": "webpack.config.js",
   "scripts": {
-    "webpack": "webpack"
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
   },
   "repository": {
     "type": "git",
