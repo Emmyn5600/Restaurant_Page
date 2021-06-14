@@ -10,6 +10,10 @@
 - CSS3
 - JAVASCRIPT
 
+## Live demo
+
+[Live server](https://emmyn5600.github.io/Restaurant_Page/)
+
 
 ## Getting Started
 
