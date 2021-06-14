@@ -4,7 +4,7 @@ import { navigateToHome, navigateToMenu, navigateToContact } from '../../actions
 const nav = new Element().create('nav').class('navbar');
 const container = new Element().create('div').class('container d-flex justify-content-between');
 const title = new Element().create('div').class('title');
-new Element().createText('West-Food').appendTo(title.element());
+new Element().createText('ESCONNECT | Restaurant').appendTo(title.element());
 
 title.appendTo(container.element());
 const btns = new Element().create('div').class('d-flex btns');
@@ -25,6 +25,5 @@ new Element().createText('Contact Us').appendTo(btn3.element());
 btn3.element().addEventListener('click', navigateToContact);
 btns.appendTo(container.element());
 container.appendTo(nav.element());
-
 
 export default nav;

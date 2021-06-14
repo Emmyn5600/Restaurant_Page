@@ -16,5 +16,4 @@ const foodItem = ({ imagePath, price: prc, name }) => {
   return Item;
 };
 
-
 export default foodItem;
